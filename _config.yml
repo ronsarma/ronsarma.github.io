@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ronsarma # the website title (if blank, full name will be used instead)
-first_name: Rajdeep (Ron) Sarma
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Ron 
 middle_name: 
-last_name:
+last_name: Sarma
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
