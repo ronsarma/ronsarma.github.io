@@ -6,7 +6,7 @@ subtitle: PhD at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sarma_5.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rajdeep (Ron) Sarma</p>
