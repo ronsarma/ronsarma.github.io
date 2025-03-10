@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>.
+subtitle: PhD student at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>.
 
 profile:
   align: right
@@ -10,16 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rajdeep (Ron) Sarma</p>
-    <p></p>
-    <p></p>
+    <p>Origin: Assam, India</p>
+    <p>Currently: Pennsylvania, US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
