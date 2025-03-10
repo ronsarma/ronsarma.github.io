@@ -401,13 +401,14 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 1rem;
+        height: 1rem;
+        margin: auto;
+        // margin-bottom: 1rem;
       }
 
       svg {
