@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: equus
+description: ultra-fast screening of redox-active small molecules
 img: assets/img/3.jpg
-importance: 2
+importance: 1
+redirect: https://cavall.chem.cmu.edu/equus
 category: work
 giscus_comments: true
 ---

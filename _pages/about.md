@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rajdeep (Ron) Sarma</p>
-    <p>Origin: Assam, India</p>
+    <p>Originally: Assam, India</p>
     <p>Currently: Pennsylvania, US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 3rd year Chemistry PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at Mellon College of Science in CMU. I work on catalysis using earth abundant transition metal complexes. 
+I am a 4th year Chemistry PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at the Mellon College of Science in CMU. I study catalysis using earth abundant transition metal complexes. 
 
 I use computational and experimental methods to understand fundamental reactions like Proton-Coupled Electron Transfer (PCET). My primary focus is on redox-active organic molecules. They are highly versatile redox mediators that can be used in energy devices like flow-batteries and as ligands for metal-based and organo-catalysis. 
 
-I prefer interdisciplinary research and try to bring together topics that fascinate me - the human mind, machines, math and molecules. 
+I prefer interdisciplinary research and try to bring together topics that fascinate me - minds, machines, math and molecules. 
