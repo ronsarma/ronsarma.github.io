@@ -349,7 +349,12 @@ ninja.data = [{
           window.location.href = "/blog/2015/images/";
         
       },
-    },{id: "books-behave",
+    },{id: "books-21-lessons-for-the-21st-century",
+          title: '21 Lessons for the 21st Century',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/21_lessons/";
+            },},{id: "books-behave",
           title: 'Behave',
           description: "",
           section: "Books",handler: () => {
@@ -384,23 +389,34 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/noise/";
-            },},{id: "books-noise",
-          title: 'Noise',
+            },},{id: "books-sapeins",
+          title: 'Sapeins',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sapiens/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-the-tell-tale-brain",
+          title: 'The Tell-tale Brain',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/telltale/";
+            },},{id: "books-thinking-fast-and-slow",
+          title: 'Thinking Fast and Slow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thinking_f_n_s/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-talk-at-acs-san-diego-about-machine-learning-on-molecules",
-          title: 'Talk at ACS San Diego about machine learning on molecules.',
+            },},{id: "news-talks-at-acs-spring-2025-in-san-diego-about-theoretical-and-experimental-studies-on-redox-active-molecules",
+          title: 'Talks at ACS Spring 2025 in San Diego about theoretical and experimental studies...',
+          description: "",
+          section: "News",},{id: "news-poster-presentation-at-acs-fall-2025-in-washington-dc-about-thermochemical-studies-redox-active-organic-molecules-using-machine-learning",
+          title: 'Poster presentation at ACS Fall 2025 in Washington DC about thermochemical studies redox-active...',
+          description: "",
+          section: "News",},{id: "news-visiting-re-conference-on-renewable-energy-in-las-vegas-come-say-hi",
+          title: 'Visiting RE+ conference on renewable energy in Las Vegas, come say hi!',
           description: "",
           section: "News",},{id: "projects-iron",
           title: 'iron',
