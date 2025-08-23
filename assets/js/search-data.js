@@ -316,28 +316,6 @@ ninja.data = [{
           window.location.href = "/blog/2021/distill/";
         
       },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
-        
-      },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
     },{id: "post-a-post-with-math",
       
         title: "a post with math",
@@ -371,22 +349,46 @@ ninja.data = [{
           window.location.href = "/blog/2015/images/";
         
       },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
     },{id: "books-behave",
           title: 'Behave',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/behave/";
+            },},{id: "books-the-book-of-why",
+          title: 'The Book of Why',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/book_of_why/";
+            },},{id: "books-the-brain",
+          title: 'The Brain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brain/";
+            },},{id: "books-determined",
+          title: 'Determined',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/determined/";
+            },},{id: "books-incognito",
+          title: 'Incognito',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/inocgnito/";
+            },},{id: "books-livewired",
+          title: 'Livewired',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/livewired/";
+            },},{id: "books-noise",
+          title: 'Noise',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/noise/";
+            },},{id: "books-noise",
+          title: 'Noise',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sapiens/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -400,8 +402,8 @@ ninja.data = [{
             },},{id: "news-talk-at-acs-san-diego-about-machine-learning-on-molecules",
           title: 'Talk at ACS San Diego about machine learning on molecules.',
           description: "",
-          section: "News",},{id: "projects-i-ron",
-          title: 'i, ron',
+          section: "News",},{id: "projects-iron",
+          title: 'iron',
           description: "mechanistic insights into iron based electron coupled proton buffers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -415,14 +417,19 @@ ninja.data = [{
           description: "developing a novel molecular generative model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-tet",
+          title: 'tet',
+          description: "understanding DNA methylation epigenetics using an inorganic complex",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_projects/";
+            },},{id: "projects-cartpole",
+          title: 'CartPole',
+          description: "10701 Course Project on Reinforcement Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-wait-for-it",
+          title: 'wait for it..',
+          description: "another project coming soon 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
