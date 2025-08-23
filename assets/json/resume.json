@@ -27,12 +27,35 @@
   ],
   "experience": [
     {
-      "organization": "Graduate Student Association (GSA)",
+      "organization": "American Chemical Society",
+      "position": "Presenter",
+      "url": "https://credentials.acs.org/9af38c53-a377-43ce-9f12-02e49aa93a11#acc.IA96nNc3",
+      "url2": "https://credentials.acs.org/ed663482-8544-4f4a-b664-fd78ba2ac1ec#acc.3xlU5J74",
+      "startDate": "2025-03-23",
+      "endDate": "2025-03-27",
+      "summary": "Gave two talks on projects - iron and equus."
+    },
+    {
+      "organization": "Graduate Student Association (GSA) - CMU",
       "position": "GSA Representative",
-      "url": "https://example.com",
+      "url": "https://www.cmu.edu/stugov/gsa/",
       "startDate": "2025-05-01",
       "endDate": "2026-05-01",
       "summary": "Represent and help improve the Chemistry graduate student experience at Carnegie Mellon University."
+    },
+    {
+      "organization": "Department of Chemistry - CMU",
+      "position": "Teaching Assistant",
+      "startDate": "2022-08-15",
+      "endDate": "2023-12-15",
+      "summary": "I was assigned TA positions for undergraduate lab courses for 3 semesters."
+    },
+    {
+      "organization": "Department of Chemistry - CMU",
+      "position": "Research Assistant",
+      "startDate": "2024-01-01",
+      "endDate": "2025-08-01",
+      "summary": "I was assigned RA positions on NIH and NSF grants. It involved mentoring three undergraduates on various research projects."
     }
   ],
   "education": [
@@ -77,8 +100,6 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Synthesis",
-        "Characterization",
         "Catalysis",
         "Cheminformatics"
       ]
@@ -127,23 +148,9 @@
       "keywords": [
         "Yndi-Halda - Golden Threads from the Sun",
         "Caspian - Dust and Disquiet",
-        "Cloudkicker - You Can Laugh Forever But Never End Up Happy",
-        "Sigur Rós - Hoppipolla",
         "Explosions in the Sky - The Only Moment We Were Alone",
         "This Will Destroy You - Quiet"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ]
 }

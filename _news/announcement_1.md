@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Talk at ACS San Diego about machine learning on molecules.
+Talks at ACS Spring 2025 in San Diego about theoretical and experimental studies on redox-active molecules.
