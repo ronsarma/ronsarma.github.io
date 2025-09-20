@@ -41,17 +41,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-      
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-        
-      },
     },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
@@ -272,17 +261,6 @@ ninja.data = [{
           window.location.href = "/blog/2022/giscus-comments/";
         
       },
-    },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-      
-        title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-        
-      },
     },{id: "post-a-post-with-redirect",
       
         title: "a post with redirect",
@@ -420,29 +398,34 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-iron",
           title: 'iron',
-          description: "mechanistic insights into iron based electron coupled proton buffers",
+          description: "mechanistic insights into iron based electron coupled proton buffers [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-equus",
           title: 'equus',
-          description: "ultra-fast screening of redox-active small molecules",
+          description: "ultra-fast screening of redox-active small molecules [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-lemon",
           title: 'lemon',
-          description: "developing a novel molecular generative model",
+          description: "developing a novel molecular generative model [ongoing]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-tet",
           title: 'tet',
-          description: "understanding DNA methylation epigenetics using an inorganic complex",
+          description: "understanding DNA methylation epigenetics using an inorganic complex [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_projects/";
             },},{id: "projects-cartpole",
-          title: 'CartPole',
-          description: "10701 Course Project on Reinforcement Learning",
+          title: 'cartpole',
+          description: "10701 Course Project using Reinforcement Learning [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-emlip",
+          title: 'eMLIP',
+          description: "15851 Course Project [ongoing]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-wait-for-it",
           title: 'wait for it..',
           description: "another project coming soon 🎉",
