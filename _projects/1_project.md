@@ -1,9 +1,10 @@
 ---
 layout: page
 title: iron
-description: mechanistic insights into iron based electron coupled proton buffers
+description: mechanistic insights into iron based electron coupled proton buffers [completed]
 img: assets/img/9.jpg
 importance: 3
+redirect: https://pubs.acs.org/doi.org/10.1021/acs.inorgchem.5c02720
 category: work
 related_publications: true
 ---

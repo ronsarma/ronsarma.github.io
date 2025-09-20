@@ -4,7 +4,7 @@
     "label": "4th Year PhD Candidate",
     "image": "",
     "email": "rsarma@andrew.cmu.edu",
-    "phone": "(412) 626-1196",
+    "phone": "",
     "location": {
       "address": "4400 Forbes Ave",
       "postalCode": "15213",
@@ -41,7 +41,7 @@
       "url": "https://www.cmu.edu/stugov/gsa/",
       "startDate": "2025-05-01",
       "endDate": "2026-05-01",
-      "summary": "Represent and help improve the Chemistry graduate student experience at Carnegie Mellon University."
+      "summary": "Represent and help improve the chemistry graduate student experience at Carnegie Mellon University."
     },
     {
       "organization": "Department of Chemistry - CMU",
@@ -55,7 +55,7 @@
       "position": "Research Assistant",
       "startDate": "2024-01-01",
       "endDate": "2025-08-01",
-      "summary": "I was assigned RA positions on NIH and NSF grants. It involved mentoring three undergraduates on various research projects."
+      "summary": "I was assigned RA positions on NIH and NSF grants. It involved leading a team of 7 on project EQUUS and mentoring 6 different undergraduates on their independent research projects."
     }
   ],
   "education": [
@@ -74,11 +74,18 @@
       "title": "DST-INSPIRE Fellowship",
       "date": "2016",
       "awarder": "Department of Science and Technology, Govt. of India",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "",
       "summary": ""
     }
   ],
   "publications": [
+    {
+      "name": "Stepwise 6H+/6e– Electron-Coupled-Proton Buffers based on Fe and Redox-Active Ligands",
+      "publisher": "ACS Inorganic Chemistry",
+      "releaseDate": "2025-09-08",
+      "url": "https://doi.org/10.1021/acs.inorgchem.5c02720",
+      "summary": "We studied a series of Fe-based 6H+/6e– electron-coupled-proton buffers (Fe-ECPBs) with detailed thermochemical analysis - for applications in energy devices and catalysis."
+    },
     {
       "name": "Tuning the Thermochemistry and Reactivity of a Series of Cu-Based 4H+/4e– Electron-Coupled-Proton Buffers",
       "publisher": "ACS Inorganic Chemistry",
@@ -100,35 +107,29 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Catalysis",
-        "Cheminformatics"
+        "Catalysis (synthesis and characterization for organic, inorganic and physical chemistry)",
+        "Computational Chemistry (RDKit, MLIP, DFT)"
       ]
     },
     {
       "name": "Computer Science",
-      "level": "Novice",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Machine Learning",
-        "Algorithms"
+        "Machine Learning (NumPy and PyTorch implementations in Python for classification, regression and generation)",
+        "Algorithms (data structures, computational complexity, sketching)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "With humans - English, Assamese, Hindi",
       "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "Assamese",
-      "fluency": "Native Speaker",
-      "icon": ""
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "With machines - Python, Bash, Git, HTML, CSS, JS",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [

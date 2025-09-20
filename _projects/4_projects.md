@@ -1,8 +1,9 @@
 ---
 layout: page
 title: tet
-description: understanding DNA methylation epigenetics using an inorganic complex
+description: understanding DNA methylation epigenetics using an inorganic complex [completed]
 img: assets/img/9.jpg
+redirect: https://pubs.acs.org/doi/10.1021/acs.inorgchem.3c00063
 importance: 4
 category: work
 related_publications: true

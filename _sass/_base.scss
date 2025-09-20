@@ -933,6 +933,11 @@ html.transition *:after {
   }
 }
 
+// Text justification
+.text-justify {
+  text-align: justify;
+}
+
 progress {
   /* Positioning */
   position: fixed;

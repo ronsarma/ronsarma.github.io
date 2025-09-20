@@ -1,7 +1,7 @@
 ---
 layout: page
 title: equus
-description: ultra-fast screening of redox-active small molecules
+description: ultra-fast screening of redox-active small molecules [completed]
 img: assets/img/3.jpg
 importance: 1
 redirect: https://cavall.chem.cmu.edu/equus

@@ -8,7 +8,7 @@ isbn: 9781594205071 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: Neurophysiology Neurobiology Animal Human-behavior Non-fiction
 released: 2017
 stars: 4.5
-status: Reading
+status: Finished
 ---
 
 This an amazing read - Sapolsky delivers riveting revelations about behaviors across multiple species backed by scientific rigor where he has figured out an optimal way of efficiently transferring dense information to the reader by sprinkling his witty humor throughout the book.

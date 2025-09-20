@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 2 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th year Chemistry PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at the Mellon College of Science in CMU. I study catalysis using earth abundant transition metal complexes. 
 
-I use computational and experimental methods to understand fundamental reactions like Proton-Coupled Electron Transfer (PCET). My primary focus is on redox-active organic molecules. They are highly versatile redox mediators that can be used in energy devices like flow-batteries and as ligands for metal-based and organo-catalysis. 
+I am a 4th year PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at the Mellon College of Science in CMU. I study molecular systems and machine (+ deep) learning methods, and try to combine the best of both worlds. I also like to spend my time reading about the brain, especially when life gets hard. 
 
-I prefer interdisciplinary research and try to bring together topics that fascinate me - minds, machines, math and molecules. 
+I study and develop machine-learned interatomic potential (MLIP) based computational workflows, often backed by spectroscopic experimental techniques like NMR, CV and UV-vis to understand fundamental chemical reactions. My current focus is on redox-active organic molecules that participate in proton-coupled electron transfers. These molecules are highly versatile redox mediators that can be used as materials for energy devices, pharmaceuticals, and catalysis. 
+
+I prefer interdisciplinary research and try to bring together topics that fascinate me - minds, machines, math and molecules.

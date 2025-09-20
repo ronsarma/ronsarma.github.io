@@ -1,10 +1,10 @@
 ---
 layout: page
-title: cartpole
-description: 10701 Course Project using Reinforcement Learning [completed]
+title: eMLIP
+description: 15851 Course Project [ongoing]
 img: assets/img/1.jpg
-redirect: https://drive.google.com/file/d/1clN84My0iOTZIHzUj22bmGvmmBrlgY5a/view?usp=drive_link
-importance: 3
+redirect: https://drive.google.com/file/d/1CFdVdQn6HmU8n0Yntph2o4nDuWZddxZw/view?usp=drive_link
+importance: 2
 category: fun
 ---
 
