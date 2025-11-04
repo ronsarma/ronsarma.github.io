@@ -433,11 +433,6 @@ ninja.data = [{
           description: "15851 Course Project [ongoing]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-wait-for-it",
-          title: 'wait for it..',
-          description: "another project coming soon 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "summaries-deep-contextualized-word-representations-elmo",
           title: 'Deep contextualized word representations (ELMo)',
           description: "",
