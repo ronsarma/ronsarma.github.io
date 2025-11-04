@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-papers",
+          title: "papers",
+          description: "This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own interpretations and takes various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (if I ever have the time).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/papers/";
+          },
         },{id: "nav-bookshelf",
           title: "bookshelf",
           description: "",
@@ -431,6 +438,41 @@ ninja.data = [{
           description: "another project coming soon 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "summaries-deep-contextualized-word-representations-elmo",
+          title: 'Deep contextualized word representations (ELMo)',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-02-deep-contextualized-word-representations/";
+            },},{id: "summaries-foundations-and-trends-in-multimodal-machine-learning-principles-challenges-and-open-questions",
+          title: 'Foundations and Trends in Multimodal Machine Learning: Principles,  Challenges, and Open Questions',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-02-foundations-and-trends-in-multimodal-machine-learning-principles--challenges-and-open-questions/";
+            },},{id: "summaries-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding",
+          title: 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-03-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/";
+            },},{id: "summaries-chain-of-thought-prompting-elicits-reasoning-in-large-language-models",
+          title: 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-03-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/";
+            },},{id: "summaries-training-language-models-to-follow-instructions-with-human-feedback-instructgpt",
+          title: 'Training language models to follow instructions with human feedback (InstructGPT)',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-05-training-language-models-to-follow-instructions-with-human-feedback/";
+            },},{id: "summaries-evaluating-large-language-models-trained-on-code-codex",
+          title: 'Evaluating Large Language Models Trained on Code (Codex)',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-06-evaluating-large-language-models-trained-on-code/";
+            },},{id: "summaries-bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-translation-and-comprehension",
+          title: 'BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension',
+          description: "",
+          section: "Summaries",handler: () => {
+              window.location.href = "/summaries/2023-08-09-bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-translation-and-comprehension/";
             },},{
         id: 'social-email',
         title: 'email',
