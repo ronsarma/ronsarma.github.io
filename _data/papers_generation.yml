@@ -1,0 +1,76 @@
+- identifier: '2501.06158'
+  title: 'GenMol: A Drug Discovery Generalist with Discrete Diffusion'
+  authors: Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,
+    Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat
+  published: '2025-01-10'
+  notes: ''
+  tags: []
+- identifier: 2411.04130v1
+  title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for\n  bioisosteric\
+    \ drug design"
+  authors: Keir Adams, Kento Abeywardane, Jenna Fromer, Connor W. Coley
+  published: '2024-10-22'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/10.1021/acs.jcim.5c01203
+  title: 'In Search of Beautiful Molecules: A Perspective on Generative Modeling for
+    Drug Design'
+  authors: Remco L. van den Broek, Shivam Patel, Gerard J. P. van Westen, Willem Jespers,
+    Woody Sherman
+  published: '2025'
+  notes: ''
+  tags: []
+- identifier: '2203.17003'
+  title: Equivariant Diffusion for Molecule Generation in 3D
+  authors: "Emiel Hoogeboom, Victor Garcia Satorras, Cl\xE9ment Vignac, Max Welling"
+  published: '2022-03-31'
+  notes: ''
+  tags:
+  - Equivariance
+  - Diffusion
+- identifier: '2506.18340'
+  title: Controlled Generation with Equivariant Variational Flow Matching
+  authors: Floor Eijkelboom, Heiko Zimmermann, Sharvaree Vadgama, Erik J Bekkers,
+    Max Welling, Christian A. Naesseth, Jan-Willem van de Meent
+  published: '2025-06-23'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/10.1021/acs.jcim.5c00029
+  title: Scaffold Hopping with Generative Reinforcement Learning
+  authors: Luke Rossen, Finton Sirockin, Nadine Schneider, Francesca Grisoni
+  published: '2025'
+  notes: ''
+  tags:
+  - RL
+- identifier: '2508.16521'
+  title: "Guiding Diffusion Models with Reinforcement Learning for Stable Molecule\n\
+    \  Generation"
+  authors: Zhijian Zhou, Junyi An, Zongkai Liu, Yunfei Shi, Xuan Zhang, Fenglei Cao,
+    Chao Qu, Yuan Qi
+  published: '2025-08-22'
+  notes: ''
+  tags:
+  - Diffusion
+  - RL
+- identifier: '2509.20719'
+  title: A Genetic Algorithm for Navigating Synthesizable Molecular Spaces
+  authors: Alston Lo, Connor W. Coley, Wojciech Matusik
+  published: '2025-09-25'
+  notes: ''
+  tags:
+  - Genetic-Algorithm
+- identifier: https://pubs.acs.org/doi/full/10.1021/acsomega.5c05077
+  title: Comprehensive Benchmark Study of Diffusion-Based 3D Molecular Generation
+    Models
+  authors: Yifei Qin, Xuexin Wei, Mingyuan Xu, Jiaqiang Wu, Miru Tang, Ting Ran, Hongming
+    Chen
+  published: '2025'
+  notes: ''
+  tags:
+  - Diffusion
+- identifier: '2410.20232'
+  title: SAFE setup for generative molecular design
+  authors: Yassir El Mesbahi, Emmanuel Noutahi
+  published: '2024-10-26'
+  notes: ''
+  tags: []

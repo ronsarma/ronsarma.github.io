@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: a growing collection of projects that I have worked on or am currently working on.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---

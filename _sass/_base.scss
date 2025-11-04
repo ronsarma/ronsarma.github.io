@@ -183,6 +183,16 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// List Group - make background transparent for dark theme compatibility
+.list-group {
+  background-color: transparent;
+}
+
+.list-group-item {
+  background-color: transparent;
+  border-color: var(--global-divider-color);
+}
+
 // Citation
 
 .citation,
@@ -495,13 +505,24 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
+  background-color: var(--global-footer-bg-color);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
 
   .container {
+    color: var(--global-footer-text-color);
     text-align: center;
+  }
+
+  a {
+    color: var(--global-footer-link-color);
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
   }
 }
 
@@ -1036,6 +1057,29 @@ progress::-moz-progress-bar {
       color: var(--global-text-color);
     }
 
+    &.active,
+    &:active,
+    &.show {
+      background-color: var(--global-theme-color) !important;
+      border-color: var(--global-theme-color) !important;
+      color: var(--global-hover-text-color) !important;
+    }
+
+    &:focus,
+    &:focus-visible {
+      background-color: var(--global-bg-color) !important;
+      border-color: var(--global-divider-color) !important;
+      color: var(--global-text-color) !important;
+      box-shadow: 0 0 0 0.2rem rgba(52, 219, 183, 0.25) !important;
+      outline: none !important;
+    }
+
+    &:not(.active):not(:active):not(.show):not(:focus) {
+      background-color: var(--global-bg-color) !important;
+      border-color: var(--global-divider-color) !important;
+      color: var(--global-text-color) !important;
+    }
+
     &:hover {
       background-color: var(--global-hover-color) !important;
       color: var(--global-hover-text-color) !important;
@@ -1066,12 +1110,117 @@ progress::-moz-progress-bar {
   }
 }
 
+// Button active states - override Bootstrap defaults to use theme color
+.btn.active,
+.btn:active,
+.btn.active:focus,
+.btn:active:focus,
+.btn.show,
+.show > .btn.dropdown-toggle {
+  background-color: var(--global-theme-color) !important;
+  border-color: var(--global-theme-color) !important;
+  color: var(--global-hover-text-color) !important;
+}
+
+// Button focus states - override Bootstrap's purple focus ring
+.btn:focus,
+.btn:focus-visible,
+.btn.focus {
+  background-color: var(--global-bg-color) !important;
+  border-color: var(--global-divider-color) !important;
+  color: var(--global-text-color) !important;
+  box-shadow: 0 0 0 0.2rem rgba(52, 219, 183, 0.25) !important;
+  outline: none !important;
+}
+
+// Active buttons should use theme color even on focus
+.btn.active:focus,
+.btn:active:focus,
+.btn.active.focus,
+.btn:active.focus {
+  background-color: var(--global-theme-color) !important;
+  border-color: var(--global-theme-color) !important;
+  color: var(--global-hover-text-color) !important;
+  box-shadow: 0 0 0 0.2rem rgba(52, 219, 183, 0.25) !important;
+}
+
+.btn-secondary.active,
+.btn-secondary:active,
+.btn-secondary.active:focus,
+.btn-secondary:active:focus {
+  background-color: var(--global-theme-color) !important;
+  border-color: var(--global-theme-color) !important;
+  color: var(--global-hover-text-color) !important;
+}
+
+.btn-secondary:focus,
+.btn-secondary:focus-visible,
+.btn-secondary.focus {
+  background-color: var(--global-bg-color) !important;
+  border-color: var(--global-divider-color) !important;
+  color: var(--global-text-color) !important;
+  box-shadow: 0 0 0 0.2rem rgba(52, 219, 183, 0.25) !important;
+  outline: none !important;
+}
+
+// Ensure buttons don't show purple after hover ends (not active, not focused)
+.btn:not(.active):not(:active):not(:focus):not(.show),
+.btn-secondary:not(.active):not(:active):not(:focus):not(.show) {
+  background-color: var(--global-bg-color) !important;
+  border-color: var(--global-divider-color) !important;
+  color: var(--global-text-color) !important;
+}
+
 /* Table of Contents */
 nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav > li > a {
     font-size: 0.75rem;
+
+    &:hover {
+      color: var(--global-hover-color);
+      border-left-color: var(--global-hover-color);
+    }
+
+    &:focus,
+    &:active,
+    &:visited {
+      color: var(--global-text-color);
+      outline: none;
+    }
+
+    &:focus:hover,
+    &:active:hover,
+    &:visited:hover {
+      color: var(--global-hover-color);
+      border-left-color: var(--global-hover-color);
+    }
+
+    &.active {
+      color: var(--global-theme-color);
+      border-left-color: var(--global-theme-color);
+
+      &:hover {
+        color: var(--global-hover-color);
+        border-left-color: var(--global-hover-color);
+      }
+
+      &:focus,
+      &:active,
+      &:visited {
+        color: var(--global-theme-color);
+        border-left-color: var(--global-theme-color);
+        outline: none;
+      }
+
+      &:focus:hover,
+      &:active:hover,
+      &:visited:hover {
+        color: var(--global-hover-color);
+        border-left-color: var(--global-hover-color);
+      }
+    }
   }
 
   .nav > li > a {
@@ -1079,6 +1228,20 @@ nav[data-toggle="toc"] {
     font-size: 0.75rem;
 
     &:hover {
+      color: var(--global-hover-color);
+      border-left-color: var(--global-hover-color);
+    }
+
+    &:focus,
+    &:active,
+    &:visited {
+      color: var(--global-text-color);
+      outline: none;
+    }
+
+    &:focus:hover,
+    &:active:hover,
+    &:visited:hover {
       color: var(--global-hover-color);
       border-left-color: var(--global-hover-color);
     }
@@ -1092,6 +1255,39 @@ nav[data-toggle="toc"] {
     &:hover {
       color: var(--global-hover-color);
       border-left-color: var(--global-hover-color);
+    }
+
+    &:focus,
+    &:active,
+    &:visited {
+      color: var(--global-theme-color);
+      border-left-color: var(--global-theme-color);
+      outline: none;
+    }
+
+    &:focus:hover,
+    &:active:hover,
+    &:visited:hover {
+      color: var(--global-hover-color);
+      border-left-color: var(--global-hover-color);
+    }
+  }
+
+  // Ensure nested nav links maintain theme color when active
+  .nav .nav .nav-link.active {
+    color: var(--global-theme-color) !important;
+    border-left-color: var(--global-theme-color) !important;
+
+    &:focus,
+    &:active,
+    &:visited {
+      color: var(--global-theme-color) !important;
+      border-left-color: var(--global-theme-color) !important;
+    }
+
+    &:hover {
+      color: var(--global-hover-color) !important;
+      border-left-color: var(--global-hover-color) !important;
     }
   }
 }

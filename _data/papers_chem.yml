@@ -1,0 +1,47 @@
+- identifier: https://pubs.acs.org/doi/10.1021/ar500432k
+  title: The Chemical Space Project
+  authors: Jean-Louis Reymond
+  published: '2015'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/10.1021/acs.jcim.5c00815
+  title: Mathematical Framework to Identify Optimal Molecule Based on Virtual Ligand
+    Strategy
+  authors: Wataru Matsuoka, Ken Hirose, Ren Yamada, Taihei Oki, Satoru Iwata, Satoshi
+    Maeda
+  published: '2025'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.5c00334
+  title: A View on Molecular Complexity from the GDB Chemical Space
+  authors: Ye Buehler, Jean-Louis Reymond
+  published: '2025'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.1c00521
+  title: Free Energies of Proton-Coupled Electron Transfer Reagents and Their Applications
+  authors: Rishi G. Agarwal, Scott C. Coste, Benjamin D. Groff, Abigail M. Heuer,
+    Hyunho Noh, Giovanny A. Parada, Catherine F. Wise, Eva M. Nichols, Jeffrey J.
+    Warren, James M. Mayer
+  published: '2021'
+  notes: ''
+  tags:
+  - PCET
+  - Physical-Chemistry
+- identifier: https://pubs.acs.org/doi/10.1021/jacs.5b04087
+  title: 'Proton-Coupled Electron Transfer: Moving Together and Charging Forward'
+  authors: Sharon Hammes-Schiffer
+  published: '2015'
+  notes: ''
+  tags:
+  - Physical-Chemistry
+  - PCET
+- identifier: https://www.science.org/doi/10.1126/science.aaw4675
+  title: Concerted proton-electron transfer reactions in the Marcus inverted region
+  authors: "Giovanny A. Parada, Zachary K. Goldsmith, Scott Kolmar, Belinda Pettersson\
+    \ Rimgard, Brandon Q. Mercado, Leif Hammarstr\xF6m, Sharon Hammes-Schiffer, James\
+    \ M. Mayer"
+  published: '2019'
+  notes: ''
+  tags:
+  - PCET

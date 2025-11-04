@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-I am a 4th year PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at the Mellon College of Science in CMU. I study molecular systems and machine (+ deep) learning methods, and try to combine the best of both worlds. I also like to spend my time reading about the brain, especially when life gets hard. 
+I am a 4th year PhD at the [Garcia-Bosch Lab](https://garcia-boschgroup.com/) at the Mellon College of Science in CMU. I study molecular systems and machine (+ deep) learning methods, and try to combine the best of both worlds. I also like to spend my time reading about the brain, especially when things don't make sense. 
 
 I study and develop machine-learned interatomic potential (MLIP) based computational workflows, often backed by spectroscopic experimental techniques like NMR, CV and UV-vis to understand fundamental chemical reactions. My current focus is on redox-active organic molecules that participate in proton-coupled electron transfers. These molecules are highly versatile redox mediators that can be used as materials for energy devices, pharmaceuticals, and catalysis. 
 

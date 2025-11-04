@@ -1,0 +1,60 @@
+- identifier: '2509.16084'
+  title: Rethinking Molecule Synthesizability with Chain-of-Reaction
+  authors: Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,
+    Saee Paliwal, Weili Nie, Arash Vahdat
+  published: '2025-09-19'
+  notes: ''
+  tags:
+  - Chain-of-reaction
+  - Retrosynthesis
+- identifier: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01508
+  title: 'Rethinking Retrosynthesis: Curriculum Learning Reshapes Transformer-Based
+    Small-Molecule Reaction Prediction'
+  authors: Rahul Sheshanarayana, Fengqi You
+  published: '2025'
+  notes: ''
+  tags:
+  - Transformer
+  - Small-Molecule
+  - Retrosynthesis
+- identifier: https://pubs.acs.org/doi/10.1021/acs.jcim.5c00417
+  title: Enhancing Monte Carlo Tree Search for Retrosynthesis
+  authors: Ton M. Blackshaw, Joseph C. Davies, Kristian T. Spoerer, Jonathan D. Hirst
+  published: '2025'
+  notes: ''
+  tags:
+  - Retrosynthesis
+- identifier: https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.5c00155
+  title: 'ASKCOS: Open-Source, Data-Driven Synthesis Planning'
+  authors: Zhengkai Tu, Sourabh J. Choure, Mun Hong Fong, Jihye Roh, Itai Levin, Kevin
+    Yu, Joonyoung F. Joung, Nathan Morgan, Shih-Cheng Li, Xiaoqi Sun, Huiqian Lin,
+    Mark Murnin, Jordan P. Liles, Thomas J. Struble, Michael E. Fortunato, Mengjie
+    Liu, William H. Green, Klavs F. Jensen, Connor W. Coley
+  published: '2025'
+  notes: ''
+  tags:
+  - Retrosynthesis
+  - identifier: https://pubs.acs.org/doi/10.1021/acs.jcim.5c00781
+  title: Temperature-Dependent Small-Molecule Solubility Prediction Using MoE-Enhanced
+    Directed Message Passing Neural Networks
+  authors: Lixiang Guo, Yujing Zhao, Qilei Liu, Lei Zhang, Jian Du, Qingwei Meng
+  published: '2025'
+  notes: ''
+  tags:
+  - Solubility
+- identifier: https://www.nature.com/articles/s41467-025-62717-7
+  title: Data-driven organic solubility prediction at the limit of aleatoric uncertainty
+  authors: Attia, Lucas, Burns, Jackson W., Doyle, Patrick S., Green, William H.
+  published: '2025-08-19'
+  notes: ''
+  tags:
+  - Solubility
+- identifier: https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00855
+  title: Physics-Based Solubility Prediction for Organic Molecules
+  authors: Daniel J. Fowles, Benedict J. Connaughton, James W. Carter, John B. O.
+    Mitchell, David S. Palmer
+  published: '2025'
+  notes: ''
+  tags:
+  - Review
+  - Solubility

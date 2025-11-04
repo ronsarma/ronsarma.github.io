@@ -1,0 +1,35 @@
+- identifier: '2508.02723'
+  title: Mathematical Foundations of Geometric Deep Learning
+  authors: "Haitz S\xE1ez de Oc\xE1riz Borde, Michael Bronstein"
+  published: '2025-08-01'
+  notes: ''
+  tags: []
+- identifier: '2505.21400'
+  title: "A Convergence Theory for Diffusion Language Models: An\n  Information-Theoretic\
+    \ Perspective"
+  authors: Gen Li, Changxiao Cai
+  published: '2025-05-27'
+  notes: ''
+  tags:
+  - Diffusion
+  - Language-Models
+- identifier: '2507.14793'
+  title: Flow Equivariant Recurrent Neural Networks
+  authors: T. Anderson Keller
+  published: '2025-07-20'
+  notes: ''
+  tags: []
+- identifier: '2509.05056'
+  title: Masked Diffusion Language Models with Frequency-Informed Training
+  authors: Despoina Kosmopoulou, Efthymios Georgiou, Vaggelis Dorovatas, Georgios
+    Paraskevopoulos, Alexandros Potamianos
+  published: '2025-09-05'
+  notes: ''
+  tags: []
+- identifier: '1706.03762'
+  title: Attention Is All You Need
+  authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+    Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+  published: '2017-06-12'
+  notes: ''
+  tags: []

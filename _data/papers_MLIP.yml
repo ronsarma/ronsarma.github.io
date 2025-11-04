@@ -1,0 +1,129 @@
+- identifier: https://openreview.net/forum?id=5wxCQDtbMo
+  title: 'GotenNet: Rethinking Efficient 3D Equivariant Graph Neural Networks'
+  authors: Sarp Aykent, Tian Xia
+  published: Unknown
+  notes: ''
+  tags: []
+- identifier: 2502.12147v1
+  title: "Learning Smooth and Expressive Interatomic Potentials for Physical\n  Property\
+    \ Prediction"
+  authors: Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao,
+    Misko Dzamba, C. Lawrence Zitnick
+  published: '2025-02-17'
+  notes: ''
+  tags:
+  - Equivariant-NNP
+- identifier: '2506.23971'
+  title: 'UMA: A Family of Universal Models for Atoms'
+  authors: Brandon M. Wood, Misko Dzamba, Xiang Fu, Meng Gao, Muhammed Shuaibi, Luis
+    Barroso-Luque, Kareem Abdelmaqsoud, Vahe Gharakhanyan, John R. Kitchin, Daniel
+    S. Levine, Kyle Michel, Anuroop Sriram, Taco Cohen, Abhishek Das, Ammar Rizvi,
+    Sushree Jagriti Sahoo, Zachary W. Ulissi, C. Lawrence Zitnick
+  published: '2025-06-30'
+  notes: ''
+  tags:
+  - Equivariant-NNP
+- identifier: '2205.14276'
+  title: "So3krates: Equivariant attention for interactions on arbitrary\n  length-scales\
+    \ in molecular systems"
+  authors: "J. Thorben Frank, Oliver T. Unke, Klaus-Robert M\xFCller"
+  published: '2022-05-28'
+  notes: ''
+  tags:
+  - Equivariant-NNP
+- identifier: '2206.07697'
+  title: "MACE: Higher Order Equivariant Message Passing Neural Networks for Fast\n\
+    \  and Accurate Force Fields"
+  authors: "Ilyes Batatia, D\xE1vid P\xE9ter Kov\xE1cs, Gregor N. C. Simm, Christoph\
+    \ Ortner, G\xE1bor Cs\xE1nyi"
+  published: '2022-06-15'
+  notes: ''
+  tags:
+  - Equivariant-NNP
+- identifier: https://pubs.acs.org/doi/10.1021/acs.chemrev.5c00461
+  title: Graph Neural Networks in Modern AI-Aided Drug Discovery
+  authors: Odin Zhang, Haitao Lin, Xujun Zhang, Xiaorui Wang, Zhenxing Wu, Qing Ye,
+    Weibo Zhao, Jike Wang, Kejun Ying, Yu Kang, Chang-Yu Hsieh, Tingjun Hou
+  published: '2025'
+  notes: ''
+  tags:
+  - GNN
+  - Drug-Discovery
+- identifier: https://www.nature.com/articles/s41467-022-29939-5
+  title: E(3)-equivariant graph neural networks for data-efficient and accurate interatomic
+    potentials
+  authors: Batzner, Simon, Musaelian, Albert, Sun, Lixin, Geiger, Mario, Mailoa, Jonathan
+    P., Kornbluth, Mordechai, Molinari, Nicola, Smidt, Tess E., Kozinsky, Boris
+  published: '2022-05-04'
+  notes: ''
+  tags:
+  - Equivariance
+- identifier: https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00893
+  title: Studying Noncovalent Interactions in Molecular Systems with Machine Learning
+  authors: Serhii Tretiakov, AkshatKumar Nigam, Robert Pollice
+  published: '2025'
+  notes: ''
+  tags:
+  - Review
+- identifier: '2505.23086'
+  title: Equivariant Spherical Transformer for Efficient Molecular Modeling
+  authors: Junyi An, Xinyu Lu, Chao Qu, Yunfei Shi, Peijia Lin, Qianwei Tang, Licheng
+    Xu, Fenglei Cao, Yuan Qi
+  published: '2025-05-29'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.4c00572
+  title: Data Generation for Machine Learning Interatomic Potentials and Beyond
+  authors: Maksim Kulichenko, Benjamin Nebgen, Nicholas Lubbers, Justin S. Smith,
+    Kipton Barros, Alice E. A. Allen, Adela Habib, Emily Shinkle, Nikita Fedik, Ying
+    Wai Li, Richard A. Messerly, Sergei Tretiak
+  published: '2024'
+  notes: ''
+  tags:
+  - Review
+- identifier: '2506.07579'
+  title: "Beyond Scaling: Chemical Intuition as Emergent Ability of Universal\n  Machine\
+    \ Learning Interatomic Potentials"
+  authors: Shinnosuke Hattori, Kohei Shimamura, Aiichiro Nakano, Rajiv K. Kalia, Priya
+    Vashishta, Ken-ichi Nomura
+  published: '2025-06-09'
+  notes: ''
+  tags:
+  - Scaling-Laws
+- identifier: https://arxiv.org/pdf/2510.09768
+  title: Scaling Laws and Symmetry, Evidence from Neural Force Fields
+  authors: Khang Ngo, Siamak Ravanbakhsh
+  published: '2025-10-10'
+  notes: ''
+  tags:
+  - Scaling-Laws
+- identifier: https://arxiv.org/pdf/2510.10248
+  title: "Reasoning-Enhanced Large Language Models for Molecular Property\n  Prediction"
+  authors: Jiaxi Zhuang, Yaorui Shi, Jue Hou, Yunong He, Mingwei Ye, Mingjun Xu, Yuming
+    Su, Linfeng Zhang, Ying Qian, Linfeng Zhang, Guolin Ke, Hengxing Cai
+  published: '2025-10-11'
+  notes: ''
+  tags:
+  - LLM
+- identifier: '2509.26397'
+  title: Are neural scaling laws leading quantum chemistry astray?
+  authors: Siwoo Lee, Adji Bousso Dieng
+  published: '2025-09-30'
+  notes: ''
+  tags:
+  - Scaling-Laws
+- identifier: '2510.00224'
+  title: "Learning from the electronic structure of molecules across the periodic\n\
+    \  table"
+  authors: Manasa Kaniselvan, Benjamin Kurt Miller, Meng Gao, Juno Nam, Daniel S.
+    Levine
+  published: '2025-09-30'
+  notes: ''
+  tags: []
+- identifier: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.5c02352
+  title: Learning Long-Range Interactions in Equivariant Machine Learning Interatomic
+    Potentials via Electronic Degrees of Freedom
+  authors: Moin Uddin Maruf, Sungmin Kim, Zeeshan Ahmad
+  published: '2025'
+  notes: ''
+  tags: []
