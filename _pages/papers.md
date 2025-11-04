@@ -1,20 +1,20 @@
 ---
 layout: page
 permalink: /papers/
-title: papers
+title: Papers
 description: >
-    This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own interpretations and takes various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (if I ever have the time).
+    This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).
 nav: true
 nav_order: 3
 toc:
     sidebar: left
 ---
 
-## summaries
+## Summaries
 
-i share summaries and opinions of papers that I've read in detail, across multiple disciplines. Most of it will concise key points that I find interesting, and perhaps some personal takes.
+I share summaries and opinions of papers that I've read in detail, across multiple disciplines. Most of it will concise key points that I find interesting, and perhaps some personal takes.
 
-this serves to both as a platform to intiate academic discussions and as a catalog for my own reading. Feel free to open a discussion on any statement that interests you, or even better, correct or teach me when i am wrong
+This serves both as a platform to intiate academic discussions and as a catalog for my own reading. Feel free to connect with me and start a discussion on any statement that interests you, or even better, correct or teach me when I am wrong. 
 
 This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 
@@ -40,10 +40,10 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 
 ---
 <br> -->
-
-## reading list
 <br>
-##### atomistic models
+## Reading List
+
+##### Atomistic Models
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -103,7 +103,7 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 
 <br>
 
-##### chemistry
+##### Chemistry
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -162,7 +162,7 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 </ul>
 <br>
 
-##### deep learning
+##### Deep Learning
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -221,7 +221,7 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 </ul>
 <br>
 
-##### generation and exploration
+##### Generation and Exploration
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -280,7 +280,7 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 </ul>
 <br>
 
-##### retrosynthesis and solubility
+##### Retrosynthesis and Solubility
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
