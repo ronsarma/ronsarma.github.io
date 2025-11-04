@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cartpole
-description: 10701 Course Project using Reinforcement Learning [completed]
+description: 10701 Course Project [completed]
 img: assets/img/1.jpg
 redirect: https://drive.google.com/file/d/1clN84My0iOTZIHzUj22bmGvmmBrlgY5a/view?usp=drive_link
 importance: 3
