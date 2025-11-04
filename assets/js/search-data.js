@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "a growing collection of projects that I have worked on or am currently working on.",
+          title: "Projects",
+          description: "A growing collection of projects that I have worked on or am currently working on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-papers",
-          title: "papers",
-          description: "This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own interpretations and takes various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (if I ever have the time).",
+          title: "Papers",
+          description: "This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/papers/";
           },
         },{id: "nav-bookshelf",
-          title: "bookshelf",
+          title: "Bookshelf",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -425,7 +425,7 @@ ninja.data = [{
               window.location.href = "/projects/4_projects/";
             },},{id: "projects-cartpole",
           title: 'cartpole',
-          description: "10701 Course Project using Reinforcement Learning [completed]",
+          description: "10701 Course Project [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-emlip",
