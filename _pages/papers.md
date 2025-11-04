@@ -12,7 +12,7 @@ toc:
     sidebar: left
 ---
 
-## Summaries
+
 ## Summaries
 
 I share summaries and opinions of papers that I've read in detail, across multiple disciplines. Most of it will concise key points that I find interesting, and perhaps some personal takes.
@@ -45,9 +45,7 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 ---
 <br> -->
 <br>
-## Reading List
 
-##### Atomistic Models
 ## Reading List
 
 ##### Atomistic Models
@@ -111,7 +109,6 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 <br>
 
 ##### Chemistry
-##### Chemistry
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -170,7 +167,6 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 </ul>
 <br>
 
-##### Deep Learning
 ##### Deep Learning
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
@@ -231,7 +227,6 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 <br>
 
 ##### Generation and Exploration
-##### Generation and Exploration
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
 </div>
@@ -290,7 +285,6 @@ This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 </ul>
 <br>
 
-##### Retrosynthesis and Solubility
 ##### Retrosynthesis and Solubility
 <div class="mb-3">
   <span id="filter-badge" class="badge" style="display:none;"></span>
