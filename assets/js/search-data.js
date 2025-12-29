@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-papers",
           title: "Papers",
-          description: "This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday). This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).",
+          description: "This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/papers/";
@@ -430,9 +430,14 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-emlip",
           title: 'eMLIP',
-          description: "15851 Course Project [ongoing]",
+          description: "15851 Course Project [on-going]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-gaussian-splats",
+          title: 'gaussian splats',
+          description: "11785 Course Project [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{id: "summaries-deep-contextualized-word-representations-elmo",
           title: 'Deep contextualized word representations (ELMo)',
           description: "",
