@@ -1,12 +1,11 @@
 ---
 layout: page
-title: tet
-description: understanding DNA methylation epigenetics using an inorganic complex [completed]
-img: assets/img/6.jpg
-redirect: https://pubs.acs.org/doi/10.1021/acs.inorgchem.3c00063
-importance: 4
-category: work
-related_publications: true
+title: gaussian splats
+description: 11785 Course Project [completed]
+img: assets/img/8.jpg
+redirect: https://drive.google.com/file/d/1FmkTsize3CLqEuCLGzjyF04XeI50tBE3/view?usp=drive_link
+importance: 1
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
@@ -45,8 +44,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

@@ -71,14 +71,35 @@
   ],
   "awards": [
     {
+      "title": "NSF I-Corps Regional",
+      "date": "2025",
+      "awarder": "U.S. National Science Foundation",
+      "url": "https://www.in-icorps.org/",
+      "summary": ""
+    },
+    {
+      "title": "Samuel S Wang Travel Award",
+      "date": "2025",
+      "awarder": "Department of Chemistry, Carnegie Mellon University",
+      "url": "",
+      "summary": ""
+    },
+    {
       "title": "DST-INSPIRE Fellowship",
       "date": "2016",
       "awarder": "Department of Science and Technology, Govt. of India",
-      "url": "",
+      "url": "https://online-inspire.gov.in/",
       "summary": ""
     }
   ],
   "publications": [
+    {
+      "name": "Machine Learning-Accelerated Screening of Hydroquinone Analogs for Proton-Coupled Electron Transfer",
+      "publisher": "ChemRxiv",
+      "releaseDate": "2025-11-05",
+      "url": "https://chemrxiv.org/engage/chemrxiv/article-details/69037fed113cc7cfff05fae0",
+      "summary": "Ultra-fast ML based computational screening of PCET reagents validated by experiments."
+    },
     {
       "name": "Stepwise 6H+/6e– Electron-Coupled-Proton Buffers based on Fe and Redox-Active Ligands",
       "publisher": "ACS Inorganic Chemistry",
@@ -89,7 +110,7 @@
     {
       "name": "Tuning the Thermochemistry and Reactivity of a Series of Cu-Based 4H+/4e– Electron-Coupled-Proton Buffers",
       "publisher": "ACS Inorganic Chemistry",
-      "releaseDate": "2024-06-30",
+      "releaseDate": "2024-05-09",
       "url": "https://doi.org/10.1021/acs.inorgchem.4c00835",
       "summary": "This work involves synthesis and characterization of a series of Cu-based 4H+/4e– electron-coupled-proton buffers (Cu-ECPBs) with a range of thermochemical analysis - for potential use in energy devices and catalysis."
     },
@@ -123,12 +144,12 @@
   ],
   "languages": [
     {
-      "language": "With humans - English, Assamese, Hindi",
+      "language": "With humans – English, Assamese, Hindi",
       "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "With machines - Python, Bash, Git, HTML, CSS, JS",
+      "language": "With machines – Python, Bash, Git, HTML, CSS, JS",
       "fluency": "Intermediate"
     }
   ],

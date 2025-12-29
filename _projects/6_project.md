@@ -1,8 +1,8 @@
 ---
 layout: page
 title: eMLIP
-description: 15851 Course Project [ongoing]
-img: assets/img/1.jpg
+description: 15851 Course Project [on-going]
+img: assets/img/10.jpg
 redirect: https://drive.google.com/file/d/1CFdVdQn6HmU8n0Yntph2o4nDuWZddxZw/view?usp=drive_link
 importance: 2
 category: fun

@@ -61,6 +61,12 @@
     - year: 2017 - 2021
       items:
         - DST - INSPIRE Scholarship
+    - year: 2025
+      items:
+        - NSF I-Corps Regional
+    - year: 2025
+      items:
+        - Samuel S Wang Travel Award
 
 - title: Academic Interests
   type: nested_list

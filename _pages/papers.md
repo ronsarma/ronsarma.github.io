@@ -5,7 +5,6 @@ title: Papers
 title: Papers
 description: >
     This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).
-    This section is about my interactions with research papers - most often they are a lot to read and parse through, but sometimes they are totally worth it. The first part, summaries, is where I have my own inter-pretations and takes on various papers that I have read. The second part, reading list, is a curated list of papers that I want to read (someday).
 nav: true
 nav_order: 3
 toc:
