@@ -14,10 +14,9 @@ toc:
 
 ## Summaries
 
-I share summaries and opinions of papers that I've read in detail, across multiple disciplines. Most of it will concise key points that I find interesting, and perhaps some personal takes.
-I share summaries and opinions of papers that I've read in detail, across multiple disciplines. Most of it will concise key points that I find interesting, and perhaps some personal takes.
+I share summaries and opinions of papers that I've read, across multiple disciplines. Most of it will be concise key points that I find interesting, and perhaps some personal takes.
 
-This serves both as a platform to intiate academic discussions and as a catalog for my own reading. Feel free to connect with me and start a discussion on any statement that interests you, or even better, correct or teach me when I am wrong. 
+This is intended to serve as a platform to strike curiosity, initiate discussions and a catalog for my own reading. Feel free to connect with me and start a discussion on any statement that interests you, or even better, correct or teach me when I am wrong. 
 
 This format is inspired from <a href="https://fanpu.io/">Fan Pu's</a> website.
 
