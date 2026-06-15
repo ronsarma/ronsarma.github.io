@@ -397,11 +397,24 @@ ninja.data = [{
             },},{id: "news-talks-at-acs-spring-2025-in-san-diego-about-theoretical-and-experimental-studies-on-redox-active-molecules",
           title: 'Talks at ACS Spring 2025 in San Diego about theoretical and experimental studies...',
           description: "",
-          section: "News",},{id: "news-poster-presentation-at-acs-fall-2025-in-washington-dc-about-thermochemical-studies-redox-active-organic-molecules-using-machine-learning",
-          title: 'Poster presentation at ACS Fall 2025 in Washington DC about thermochemical studies redox-active...',
+          section: "News",},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-visiting-re-conference-on-renewable-energy-in-las-vegas-come-say-hi",
-          title: 'Visiting RE+ conference on renewable energy in Las Vegas, come say hi!',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-announcement-4",
+          title: 'Announcement_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-excited-to-announce-that-i-have-been-selected-for-the-2026-innovation-commercialization-fellowship-offered-by-the-cmu-swartz-center-for-entrepreneurship",
+          title: 'Excited to announce that I have been selected for the 2026 Innovation Commercialization...',
+          description: "",
+          section: "News",},{id: "news-check-out-cavall-labs-our-new-endeavor-for-accelerating-chemical-research-backed-by-cmu-venturebridge-26",
+          title: 'Check out Cavall Labs - our new endeavor for accelerating chemical research. Backed...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-presenting-a-talk-on-project-equus-at-the-46th-international-conference-on-coordination-chemistry-in-odense-denmark-if-you-ll-be-attending-or-simply-want-to-know-more-about-it-please-feel-free-to-drop-a-hello",
+          title: 'I will be presenting a talk on Project EQUUS at the 46th International...',
           description: "",
           section: "News",},{id: "projects-iron",
           title: 'iron',
