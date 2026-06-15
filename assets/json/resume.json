@@ -71,6 +71,27 @@
   ],
   "awards": [
     {
+      "title": "Innovation Commercialization Fellowship",
+      "date": "2026",
+      "awarder": "CMU Swartz Center for Entrepreneurship",
+      "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/faculty-and-deep-tech-resources/phd-innovation-commercialization-fellows/current-fellows.html",
+      "summary": ""
+    },
+    {
+      "title": "VentureBridge ResearchFellow",
+      "date": "2026",
+      "awarder": "CMU Swartz Center for Entrepreneurship",
+      "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/venturebridge/venturebridge-2026-cohort-and-fellows-launch.html",
+      "summary": ""
+    },
+    {
+      "title": "CMU GSA/Provost Conference Funds",
+      "date": "2026",
+      "awarder": "CMU Office of Graduate and Postdoctoral Affairs",
+      "url": "https://www.cmu.edu/graduate/funding/conference.html",
+      "summary": ""
+    },
+    {
       "title": "NSF I-Corps Regional",
       "date": "2025",
       "awarder": "U.S. National Science Foundation",
