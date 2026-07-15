@@ -11,3 +11,4 @@ stars: 4.5
 status: Finished
 ---
 
+My opinions on this book is very similar to The Brain by the same author, David Eagleman. Perhaps because this book felt very similar to the Brain. But I defintely got to read it once again before sharing an unjust take on the book. I can imagine how difficult it must be to write a book. I am struggling writing a review.

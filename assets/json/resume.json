@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Rajdeep Sarma",
-    "label": "4th Year PhD Candidate",
+    "label": "5th Year PhD Candidate",
     "image": "",
     "email": "rsarma@andrew.cmu.edu",
     "phone": "",
@@ -26,6 +26,23 @@
     }
   ],
   "experience": [
+    {
+      "organization": "Cavall Labs",
+      "position": "Founder",
+      "url": "http://cavall.ai/",
+      "startDate": "2026",
+      "endDate": "Present",
+      "summary": ""
+    },
+    {
+      "organization": "46th International Conference on Coordination Chemistry",
+      "position": "Speaker",
+      "url": "https://iccc2026.com/",
+      "url2": "https://github.com/ronsarma/ronsarma.github.io/tree/main/assets/pdf/ICCC_Certificate_of_Attendance.pdf",
+      "startDate": "2026-06-28",
+      "endDate": "2026-07-03",
+      "summary": "Gave a talk on Project EQUUS at ICCC 2026 in Odense, Denmark."
+    },
     {
       "organization": "American Chemical Society",
       "position": "Presenter",
@@ -85,6 +102,13 @@
       "summary": ""
     },
     {
+      "title": "Graduate Student Award for Outstanding Service in Mentoring Undergraduates in Research",
+      "date": "2026",
+      "awarder": "Department of Chemistry, Carnegie Mellon University",
+      "url": "https://www.cmu.edu/chemistry/discover/awards/index.html",
+      "summary": ""
+    },
+    {
       "title": "CMU GSA/Provost Conference Funds",
       "date": "2026",
       "awarder": "CMU Office of Graduate and Postdoctoral Affairs",
@@ -116,9 +140,9 @@
   "publications": [
     {
       "name": "Machine Learning-Accelerated Screening of Hydroquinone Analogs for Proton-Coupled Electron Transfer",
-      "publisher": "ChemRxiv",
-      "releaseDate": "2025-11-05",
-      "url": "https://chemrxiv.org/engage/chemrxiv/article-details/69037fed113cc7cfff05fae0",
+      "publisher": "RSC, Chemical Science",
+      "releaseDate": "2026-07-06",
+      "url": "https://doi.org/10.1039/d6sc02664h",
       "summary": "Ultra-fast ML based computational screening of PCET reagents validated by experiments."
     },
     {
