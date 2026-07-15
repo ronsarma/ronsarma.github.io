@@ -339,6 +339,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/21_lessons/";
+            },},{id: "books-the-art-of-doing-science-and-engineering",
+          title: 'The Art of Doing Science and Engineering',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/art_of_science/";
             },},{id: "books-behave",
           title: 'Behave',
           description: "",
@@ -359,16 +364,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/determined/";
+            },},{id: "books-godel-escher-bach-an-eternal-golden-braid",
+          title: 'Godel, Escher, Bach An Eternal Golden Braid',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/geb/";
             },},{id: "books-incognito",
           title: 'Incognito',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/inocgnito/";
+            },},{id: "books-an-investigation-of-the-laws-of-thought",
+          title: 'An Investigation of the Laws of Thought',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/laws_of_thought/";
             },},{id: "books-livewired",
           title: 'Livewired',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/livewired/";
+            },},{id: "books-the-nature-of-explanation",
+          title: 'The Nature of Explanation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nature_of_exp/";
             },},{id: "books-noise",
           title: 'Noise',
           description: "",
@@ -501,6 +521,13 @@ ninja.data = [{
           window.open("https://github.com/ronsarma", "_blank");
         },
       },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/ronsarma", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -508,11 +535,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/rajdeep-sarma-717a10172", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-5677-2494", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=tZb_sgQAAAAJJ", "_blank");
         },
       },{
       id: 'light-theme',
