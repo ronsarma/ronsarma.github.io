@@ -13,26 +13,47 @@
       "region": "Pennsylvania"
     }
   },
-  "work": [
+  "education": [
     {
-      "name": "Carnegie Mellon University",
-      "position": "PhD Candidate in Chemistry",
+      "institution": "Carnegie Mellon University",
       "location": "Pittsburgh, PA, USA",
+      "studyType": "PhD",
       "url": "https://www.cmu.edu/",
+      "area": "Chemistry",
       "startDate": "2022-08-15",
       "endDate": "Present",
       "summary": "Investigate redox-active systems using computational and experimental approaches.",
       "highlights": ["Redox-active systems", "Physical organic chemistry", "Computational chemistry", "Machine learning"]
-    }
+    },
+    {
+      "institution": "Indian Institute of Science Eduacation and Research, Bhopal",
+      "location": "Bhopal, India",
+      "url": "https://www.iiserb.ac.in/",
+      "area": "Chemistry",
+      "studyType": "BS-MS",
+      "startDate": "2016",
+      "endDate": "2021"
+    } 
+  ],
+  "work": [
+    
   ],
   "experience": [
     {
       "organization": "Cavall Labs",
-      "position": "Founder",
+      "position": "Founding Member",
       "url": "http://cavall.ai/",
       "startDate": "2026",
       "endDate": "Present",
-      "summary": ""
+      "summary": "Worked on the core technology"
+    },
+    {
+      "organization": "Introduction to Deep Learning (11785)",
+      "position": "Teaching Assistant",
+      "url": "https://deeplearning.cs.cmu.edu/F26/index.html",
+      "startDate": "2026-01",
+      "endDate": "2026-12",
+      "summary": "Developed course materials, taught and mentored course projects"
     },
     {
       "organization": "46th International Conference on Coordination Chemistry",
@@ -73,17 +94,6 @@
       "startDate": "2024-01-01",
       "endDate": "2025-08-01",
       "summary": "I was assigned RA positions on NIH and NSF grants. It involved leading a team of 7 on project EQUUS and mentoring 6 different undergraduates on their independent research projects."
-    }
-  ],
-  "education": [
-    {
-      "institution": "Indian Institute of Science Eduacation and Research, Bhopal",
-      "location": "Bhopal, India",
-      "url": "https://www.iiserb.ac.in/",
-      "area": "Chemistry",
-      "studyType": "BS-MS",
-      "startDate": "2016",
-      "endDate": "2021"
     }
   ],
   "awards": [
@@ -139,6 +149,13 @@
   ],
   "publications": [
     {
+      "name": "Heimdall: An Agentic Eye for Chemistry",
+      "publisher": "NeurIPS ML4Molecules Workshop",
+      "releaseDate": "2026-10-08",
+      "url": "https://openreview.net/forum?id=QrZdMrLP5X",
+      "summary": "A reliable agentic workflow for parsing molecular structures from papers into machine readable formats. The workflow outperformed on 15 out of 16 SOTA benchmark models."
+    },
+    {
       "name": "Machine Learning-Accelerated Screening of Hydroquinone Analogs for Proton-Coupled Electron Transfer",
       "publisher": "RSC, Chemical Science",
       "releaseDate": "2026-07-06",
@@ -150,7 +167,7 @@
       "publisher": "ACS Inorganic Chemistry",
       "releaseDate": "2025-09-08",
       "url": "https://doi.org/10.1021/acs.inorgchem.5c02720",
-      "summary": "We studied a series of Fe-based 6H+/6e– electron-coupled-proton buffers (Fe-ECPBs) with detailed thermochemical analysis - for applications in energy devices and catalysis."
+      "summary": "Study on a series of Fe-based 6H+/6e– electron-coupled-proton buffers (Fe-ECPBs) with detailed thermochemical analysis - for applications in energy devices and catalysis."
     },
     {
       "name": "Tuning the Thermochemistry and Reactivity of a Series of Cu-Based 4H+/4e– Electron-Coupled-Proton Buffers",

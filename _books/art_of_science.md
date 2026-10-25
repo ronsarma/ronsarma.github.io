@@ -8,5 +8,5 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Science Engineering Research Philosophy
 released: 1997
 stars: 5
-status: queued
+status: Reading
 ---

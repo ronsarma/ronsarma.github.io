@@ -3,7 +3,7 @@ layout: page
 title: lemon
 description: developing a novel molecular generative model [ongoing]
 img: assets/img/7.jpg
-importance: 2
+importance: 4
 category: work
 ---
 

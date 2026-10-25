@@ -4,7 +4,7 @@ title: gaussian splats
 description: 11785 Course Project [completed]
 img: assets/img/8.jpg
 redirect: https://drive.google.com/file/d/1FmkTsize3CLqEuCLGzjyF04XeI50tBE3/view?usp=drive_link
-importance: 1
+importance: 2
 category: fun
 ---
 

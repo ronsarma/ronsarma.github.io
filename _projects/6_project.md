@@ -4,7 +4,7 @@ title: eMLIP
 description: 15851 Course Project [on-going]
 img: assets/img/10.jpg
 redirect: https://drive.google.com/file/d/1CFdVdQn6HmU8n0Yntph2o4nDuWZddxZw/view?usp=drive_link
-importance: 2
+importance: 3
 category: fun
 ---
 
