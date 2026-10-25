@@ -399,6 +399,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sapiens/";
+            },},{id: "books-the-tao-of-pooh",
+          title: 'The Tao of Pooh',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tao_of_pooh/";
             },},{id: "books-the-tell-tale-brain",
           title: 'The Tell-tale Brain',
           description: "",
@@ -471,6 +476,11 @@ ninja.data = [{
           description: "11785 Course Project [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-heimdall",
+          title: 'heimdall',
+          description: "Agentic molecule parsing [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{id: "summaries-deep-contextualized-word-representations-elmo",
           title: 'Deep contextualized word representations (ELMo)',
           description: "",
