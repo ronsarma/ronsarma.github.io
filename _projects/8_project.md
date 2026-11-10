@@ -3,7 +3,7 @@ layout: page
 title: heimdall
 description: Agentic molecule parsing [completed]
 img: assets/img/1.jpg
-redirect: https://drive.google.com/file/d/1FmkTsize3CLqEuCLGzjyF04XeI50tBE3/view?usp=drive_link
+redirect: https://neurips.cc/virtual/2026/loc/paris/177513
 importance: 1
 category: fun
 related_publications: true
