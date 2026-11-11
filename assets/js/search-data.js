@@ -409,11 +409,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/telltale/";
+            },},{id: "books-the-maniac",
+          title: 'The Maniac',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_maniac/";
             },},{id: "books-thinking-fast-and-slow",
           title: 'Thinking Fast and Slow',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thinking_f_n_s/";
+            },},{id: "books-tractatus-logico-philosophicus",
+          title: 'Tractatus Logico-Philosophicus',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tractatus/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
