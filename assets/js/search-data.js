@@ -369,6 +369,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/geb/";
+            },},{id: "books-infinite-powers",
+          title: 'Infinite Powers',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/infinite_powers/";
             },},{id: "books-incognito",
           title: 'Incognito',
           description: "",
