@@ -8,5 +8,5 @@ isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Information_Theory Computer_Science Logic Math Philosophy
 released: 2023
 stars: 5
-status: Oueued
+status: Queued
 ---
